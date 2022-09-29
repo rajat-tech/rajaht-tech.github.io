@@ -30,7 +30,7 @@
     "angular-messages": "~1.7.5",
     "angular-route": "~1.7.5",
     "angular-sanitize": "~1.7.5",
-    "d3": "~5.9.2",
+    "d3": "~7.6.1",
     "file-saver": "^2.0.1",
     "graphology": "~0.14.1",
     "graphology-library": "0.2.0",
