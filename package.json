@@ -33,7 +33,7 @@
     "d3": "~5.9.2",
     "file-saver": "^2.0.1",
     "graphology": "~0.14.1",
-    "graphology-library": "0.2.0",
+    "graphology-library": "0.7.1",
     "screenfull": "^4.1.0",
     "sigma": "2.0.0-alpha20"
   },
